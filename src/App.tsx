@@ -195,7 +195,7 @@ export default function App() {
         <div className="p-4 border-b border-gray-200 bg-gradient-to-r from-white to-gray-50">
           <div className="flex items-center justify-between mb-4">
             <h1 className="text-xl font-bold text-gray-900 bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">
-              AI Notebook
+              AI Notetaking
             </h1>
             <div className="flex gap-2">
               <Button
